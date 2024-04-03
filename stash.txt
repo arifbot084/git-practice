@@ -5,3 +5,4 @@ second stash add
 third stash
 fouth stash add
 fifth add
+sixth add
